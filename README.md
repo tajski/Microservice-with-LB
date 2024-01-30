@@ -5,3 +5,7 @@ Steps to run the microservices and client properly:
 2. Repeat for every instance of web service you want to have, remembering to set other port, which is not already in use (in new terminal).
 3. When web services are running, in Main.java put all the ports that are currently running in "ports" list (default: 1111, 2222 and 3333 for services running on corresponding ports) inside method "main".
 4. Run Main.java and enjoy!
+
+
+https://github.com/tajski/Microservice-with-LB/assets/75797493/4929ece1-d407-43de-8ac9-e6d0463db240
+
